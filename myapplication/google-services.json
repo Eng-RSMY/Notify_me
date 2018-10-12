@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "132667082110",
+    "firebase_url": "https://sensors-207d6.firebaseio.com",
+    "project_id": "sensors-207d6",
+    "storage_bucket": "sensors-207d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132667082110:android:81b721a0a04facba",
+        "android_client_info": {
+          "package_name": "com.example.asus.sensors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132667082110-b77i396fcvgs4k7p7h0m2iaffjljov96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.sensors",
+            "certificate_hash": "2dfff305739669559b7f17f43c14dcd371554033"
+          }
+        },
+        {
+          "client_id": "132667082110-31b0c77cro8046u06h2n5drture0jd7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf870CqIkCsV6HSRAK6HYY8mhCCVcT3eM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132667082110-31b0c77cro8046u06h2n5drture0jd7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
